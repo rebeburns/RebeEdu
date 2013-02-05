@@ -10,7 +10,7 @@ public class Pruebatest {
 	public static void main(String[] args) {
 		
 		int x=0;
-			
+			ftr
 
 	}
 
